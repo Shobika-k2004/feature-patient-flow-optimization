@@ -64,4 +64,4 @@ This project addresses the problem by implementing the following key components:
 
 
 
-This project is licensed under the [MIT License](LICENSE).
+
